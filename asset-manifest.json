@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yashu/static/css/main.70f9ef4f.css",
+    "main.js": "/Yashu/static/js/main.d1e75404.js",
+    "static/js/592.9424b68e.chunk.js": "/Yashu/static/js/592.9424b68e.chunk.js",
+    "index.html": "/Yashu/index.html",
+    "main.70f9ef4f.css.map": "/Yashu/static/css/main.70f9ef4f.css.map",
+    "main.d1e75404.js.map": "/Yashu/static/js/main.d1e75404.js.map",
+    "592.9424b68e.chunk.js.map": "/Yashu/static/js/592.9424b68e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f9ef4f.css",
+    "static/js/main.d1e75404.js"
+  ]
+}
